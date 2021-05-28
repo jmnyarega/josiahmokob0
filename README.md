@@ -1,9 +1,7 @@
+![My Stats](https://github-readme-stats.vercel.app/api?username=josiahmokob0&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true)
 
+![My Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=josiahmokob0&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=tsql&layout=compact)
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=josiahmokob0&show_icons=true&theme=onedark&show_icons=true)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=josiahmokob0&theme=onedark&hide=tsql)  
-
-![My Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=josiahmokob0&show_icons=true&theme=onedark&hide=tsql&layout=compact)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=josiahmokob0&theme=radical&hide=tsql)  
 
 [my portfolio](https://josiahmokob0.github.io/me/)
