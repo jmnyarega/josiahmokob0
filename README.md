@@ -4,6 +4,6 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=josiahmokob0&theme=onedark&hide=tsql)  
 
-![My Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=josiahmokob0&show_icons=true&theme=onedark&hide=tsql)
+![My Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=josiahmokob0&show_icons=true&theme=onedark&hide=tsql&layout=compact)
 
 [my portfolio](https://josiahmokob0.github.io/me/)
