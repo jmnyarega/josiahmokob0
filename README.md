@@ -1,3 +1,6 @@
+____
+
+### Github stats
 ![My Stats](https://github-readme-stats.vercel.app/api?username=josiahmokob0&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=000&show_icons=true)
 
 ![My Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=josiahmokob0&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=000000&hide=tsql&layout=compact)
@@ -6,6 +9,7 @@
 
 ___
 
+### My profiles
 [<img src="https://img.icons8.com/ultraviolet/40/000000/collaborator-male.png"/>](https://josiahmokob0.github.io/me/)
 [<img src="https://www.frontendmentor.io/static/images/logo-desktop.svg">](https://www.frontendmentor.io/profile/jmnyarega)
 [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/josiah-nyarega-84820a103/)
