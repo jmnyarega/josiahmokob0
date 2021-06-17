@@ -4,4 +4,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=josiahmokob0&theme=dark-smoky&background=000000&border=fff)](https://git.io/streak-stats)
 
+___
 [my portfolio](https://josiahmokob0.github.io/me/)
