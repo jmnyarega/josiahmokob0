@@ -5,4 +5,24 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=josiahmokob0&theme=dark-smoky&background=000000&border=fff)](https://git.io/streak-stats)
 
 ___
-[my portfolio](https://josiahmokob0.github.io/me/)
+
+[<img src="https://avatars2.githubusercontent.com/u/20610060?v=4" width="48">](https://josiahmokob0.github.io/me/)
+[<img src="https://www.frontendmentor.io/static/images/logo-desktop.svg">](https://www.frontendmentor.io/profile/jmnyarega)
+[<img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>](https://www.linkedin.com/in/josiah-nyarega-84820a103/)
+[<img src="https://img.icons8.com/ios/50/000000/codepen.png"/>](https://codepen.io/jmnyarega)
+[<img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>](https://stackoverflow.com/users/8013307/josiah)
+
+___
+
+### Good at
+![](https://img.icons8.com/nolan/50/html-5.png)
+![](https://img.icons8.com/nolan/50/css-filetype.png)
+![](https://img.icons8.com/nolan/50/react-native.png)
+![](https://img.icons8.com/nolan/50/javascript.png)
+
+___
+
+### Learning
+![](https://img.icons8.com/color/48/000000/vue-js.png)
+![](https://img.icons8.com/color/48/000000/python.png)
+![](https://img.icons8.com/color/50/000000/angularjs.png)
