@@ -6,7 +6,7 @@
 
 ___
 
-[<img src="https://avatars2.githubusercontent.com/u/20610060?v=4" width="48">](https://josiahmokob0.github.io/me/)
+[<img src="https://img.icons8.com/ultraviolet/40/000000/collaborator-male.png"/>](https://josiahmokob0.github.io/me/)
 [<img src="https://www.frontendmentor.io/static/images/logo-desktop.svg">](https://www.frontendmentor.io/profile/jmnyarega)
 [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/josiah-nyarega-84820a103/)
 [<img src="https://img.icons8.com/ios/50/000000/codepen.png"/>](https://codepen.io/jmnyarega)
