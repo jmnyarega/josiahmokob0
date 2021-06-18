@@ -23,6 +23,7 @@ ___
 ![](https://img.icons8.com/nolan/50/css-filetype.png)
 ![](https://img.icons8.com/nolan/50/react-native.png)
 ![](https://img.icons8.com/nolan/50/javascript.png)
+![](https://img.icons8.com/color/48/000000/typescript.png)
 
 ___
 
