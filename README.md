@@ -8,10 +8,9 @@ ____
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=josiahmokob0&theme=dark-smoky&background=000000&border=fff)](https://git.io/streak-stats)
 
 ___
+<img src="https://komarev.com/ghpvc/?username=josiahmokob0&label=Profile%20views&color=0e75b6&style=flat" />
 
-<img align="left" src="https://komarev.com/ghpvc/?username=josiahmokob0&label=Profile%20views&color=0e75b6&style=flat" />
 
-___
 ### My profiles
 [<img src="https://img.icons8.com/ultraviolet/40/000000/collaborator-male.png"/>](https://josiahmokob0.github.io/me/)
 [<img src="https://www.frontendmentor.io/static/images/logo-desktop.svg">](https://www.frontendmentor.io/profile/jmnyarega)
