@@ -11,8 +11,8 @@ ___
 
 <img align="left" src="https://komarev.com/ghpvc/?username=josiahmokob0&label=Profile%20views&color=0e75b6&style=flat">
 
-___
 
+____
 ### My profiles
 [<img src="https://img.icons8.com/ultraviolet/40/000000/collaborator-male.png"/>](https://josiahmokob0.github.io/me/)
 [<img src="https://www.frontendmentor.io/static/images/logo-desktop.svg">](https://www.frontendmentor.io/profile/jmnyarega)
