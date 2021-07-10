@@ -20,7 +20,7 @@ ___
 
 ___
 
-### Good at
+### Good with
 ![](https://img.icons8.com/nolan/50/html-5.png)
 ![](https://img.icons8.com/nolan/50/css-filetype.png)
 ![](https://img.icons8.com/nolan/50/react-native.png)
