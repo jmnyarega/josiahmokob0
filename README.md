@@ -26,7 +26,7 @@ ___
 ![](https://img.icons8.com/color/50/react-native.png)
 ![](https://img.icons8.com/color/50/javascript.png)
 ![](https://img.icons8.com/color/48/000000/typescript.png)
-![](https://img.icons8.com/color/48/000000/vuejs.png)
+![](https://img.icons8.com/color/48/000000/vue-js.png)
 
 ___
 
