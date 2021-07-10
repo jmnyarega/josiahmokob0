@@ -22,11 +22,11 @@ ___
 
 ### Good with
 ![](https://img.icons8.com/nolan/50/html-5.png)
-![](https://img.icons8.com/nolan/50/css-filetype.png)
-![](https://img.icons8.com/nolan/50/react-native.png)
-![](https://img.icons8.com/nolan/50/javascript.png)
+![](https://img.icons8.com/color/50/css-filetype.png)
+![](https://img.icons8.com/color/50/react-native.png)
+![](https://img.icons8.com/color/50/javascript.png)
 ![](https://img.icons8.com/color/48/000000/typescript.png)
-![](https://img.icons8.com/windows/32/000000/vuejs.png)
+![](https://img.icons8.com/color/48/000000/vuejs.png)
 
 ___
 
