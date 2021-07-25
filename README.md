@@ -12,25 +12,23 @@ ___
 
 
 ### My profiles
-[<img src="https://img.icons8.com/ultraviolet/40/000000/collaborator-male.png"/>](https://josiahmokob0.github.io/me/)
-[<img src="https://www.frontendmentor.io/static/images/logo-desktop.svg">](https://www.frontendmentor.io/profile/jmnyarega)
-[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/josiah-nyarega-84820a103/)
-[<img src="https://img.icons8.com/ios/50/000000/codepen.png"/>](https://codepen.io/jmnyarega)
-[<img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>](https://stackoverflow.com/users/8013307/josiah)
+[<img src="https://img.shields.io/badge/Frontend-Mentor-E34F26?style=for-the-badge&logo=FM&logoColor=black" alt="josiah logo" title="Josiah" height="25" />](https://www.frontendmentor.io/profile/jmnyarega)
+[<img src="https://img.shields.io/badge/LinkedIn-Profile-E34F26?style=for-the-badge&logo=Josiah&logoColor=blue" alt="josiah logo" title="LinkedIN" height="25" />](https://www.linkedin.com/in/josiah-nyarega-84820a103/)
+[<img src="https://img.shields.io/badge/CodePen-io-E34F26?style=for-the-badge&logo=Josiah&logoColor=blue" alt="josiah logo" title="Codepen" height="25" />](https://codepen.io/jmnyarega)
+[<img src="https://img.shields.io/badge/Stack-Overflow-E34F26?style=for-the-badge&logo=Josiah&logoColor=blue" alt="josiah logo" title="Stackoverflow" height="25" />](https://stackoverflow.com/users/8013307/josiah)
 
 ___
 
 ### Good with
-![](https://img.icons8.com/nolan/50/html-5.png)
-![](https://img.icons8.com/color/50/css-filetype.png)
-![](https://img.icons8.com/color/50/react-native.png)
-![](https://img.icons8.com/color/50/javascript.png)
-![](https://img.icons8.com/color/48/000000/typescript.png)
-![](https://img.icons8.com/color/48/000000/vue-js.png)
+![](https://img.shields.io/badge/html-5-orange)
+![](https://img.shields.io/badge/css-css-green)
+![](https://img.shields.io/badge/react-js-blue)
+![](https://img.shields.io/badge/Javascript-(js)-yellow)
+![](https://img.shields.io/badge/typescript----blue)
+![](https://img.shields.io/badge/vue-js-green)
 
 ___
 
 ### Learning
-![](https://img.icons8.com/color/48/000000/vue-js.png)
-![](https://img.icons8.com/color/48/000000/python.png)
-![](https://img.icons8.com/color/50/000000/angularjs.png)
+![](https://img.shields.io/badge/Python----yellowgreen)
+![](https://img.shields.io/badge/Angular-Js-red)
